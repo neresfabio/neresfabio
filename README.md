@@ -1,7 +1,7 @@
 ### Olá!! Sou o Neres 👋
 
 - 🔭 Hoje trabalho minhas Soft Skills e Hard Skills.
-- 🌱 Estudando Delphi para um projeto.
+- 🌱 Estudando Delphi e Flutter para um projeto.
 - 🤔 Estou procurando oportunidades.
 - 😄 Pronouns: ele/dele
 - ⚡ Não sei tudo, mas sei de quase tudo um pouco! rsrs
