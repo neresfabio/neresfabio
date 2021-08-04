@@ -1,4 +1,4 @@
-### Olá!! Sou neres 👋
+### Olá!! Sou o Neres 👋
 
 - 🔭 Hoje trabalho minhas Soft Skills e Hard Skills.
 - 🌱 Estudando Delphi para um projeto.
