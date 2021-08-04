@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho minhas Soft Skills e Hard Skills.
 - 🌱 Estudando Delphi e Flutter para um projeto.
-- 🤔 Estou procurando oportunidades.
+- 🤔 Estou procurando por oportunidades.
 - 😄 Pronouns: ele/dele
 - ⚡ Não sei tudo, mas sei de quase tudo um pouco! rsrs
 
