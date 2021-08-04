@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho minhas Soft Skills e Hard Skills.
 - 🌱 Estudando Delphi para um projeto.
 - 🤔 Estou procurando oportunidades na área de TI.
-- 📫 COntate-me no e-mail: nerefjcomunnic@gmail.com
+- 📫 Contate-me no e-mail: nerefjcomunnic@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Não sei tudo, mas sei de quase tudo um pouco! rsrs
 
