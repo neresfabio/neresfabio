@@ -1,10 +1,8 @@
 ### Olá!! Sou o Neres 👋
 
-- 🔭 Hoje trabalho minhas Soft Skills e Hard Skills.
+- 🔭 Hoje trabalho como técnico em TI (profissional autônomo).
 - 🌱 Estudando Delphi e Flutter para um projeto.
-- 🤔 Estou procurando por oportunidades.
 - 😄 Pronouns: ele/dele
-- ⚡ Não sei tudo, mas sei de quase tudo um pouco! rsrs
 
 <div>
   <a href="https://github.com/neresfabio">
