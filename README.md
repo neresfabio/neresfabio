@@ -2,7 +2,8 @@
 
 - 🔭 Hoje trabalho como técnico em TI (profissional autônomo).
 - 🌱 Estudando Delphi e Flutter para um projeto.
-- 😄 Pronouns: ele/dele
+- 🥷 Aprendo por demanda.
+- 🕵️ Pesquisador em tempo integral.
 
 <div>
   <a href="https://github.com/neresfabio">
