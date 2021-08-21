@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como técnico em TI (profissional autônomo).
 - 🌱 Estudando Delphi e Flutter para um projeto.
-- 🧑‍🎓 Aprendo por demanda.
+- 🧑‍🎓 Aprendizagem por demanda.
 - 🕵️ Pesquisador em tempo integral.
 
 <div>
