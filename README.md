@@ -1,6 +1,6 @@
 ### Olá!! Sou o Neres 👋
 
-- 🔭 Hoje trabalho como técnico em TI (profissional autônomo).
+- 🔭 Hoje trabalho como técnico em TI (Freelancer).
 - 🌱 Estudando Delphi e Flutter para um projeto.
 - 🧑‍🎓 Aprendizagem por demanda.
 - 🕵️ Pesquisador em tempo integral.
