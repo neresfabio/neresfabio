@@ -1,6 +1,6 @@
 ### Olá!! Sou o Neres 👋
 
-- 🔭 Hoje trabalho como técnico em informmática.
+- 🔭 Hoje trabalho como técnico em informática.
 - 🌱 Desenvolvo projetos pequenos para práticar a programação.
 - 🧑‍🎓 Aprendizagem por demanda, conforme os desafios propostos aprendo uma nova tecnologia.
 - 🕵️ Pesquisador em tempo integral, saber resolver soluções exige ter um olhar aguçado e investgativo.
