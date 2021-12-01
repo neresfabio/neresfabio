@@ -1,9 +1,9 @@
 ### Olá!! Sou o Neres 👋
 
-- 🔭 Hoje trabalho como técnico em TI (Freelancer).
-- 🌱 Estudando Delphi e Flutter para um projeto.
-- 🧑‍🎓 Aprendizagem por demanda.
-- 🕵️ Pesquisador em tempo integral.
+- 🔭 Hoje trabalho como técnico em informmática.
+- 🌱 Desenvolvo projetos pequenos para práticar a programação.
+- 🧑‍🎓 Aprendizagem por demanda, conforme os desafios propostos aprendo uma nova tecnologia.
+- 🕵️ Pesquisador em tempo integral, saber resolver soluções exige ter um olhar aguçado e investgativo.
 
 <div>
   <a href="https://github.com/neresfabio">
