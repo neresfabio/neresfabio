@@ -4,10 +4,12 @@
 >O profissional generalista não é aquela pessoa que retém conhecimento acerca de tudo, até porque em TI isso seria impossível, devido à evolução digital. Mas é aquele profissional que busca diversificar seus campos de atuação, estando em contato com o maior número de tecnologias possível, sem se aprofundar demais em nenhuma delas.
 >Esse tipo de visão horizontal pode ser procurado pelas empresas para ser utilizado como um profissional “coringa”. Assim, qualquer que seja a necessidade do negócio, é grande a chance desse colaborador já possuir conhecimentos básicos sobre o tema.
 
-Hoje estudo liguagens de programação desde Delphi, Html, CSS, Js, C#, Python, assim como frameworks de prototipação como figma e desenvolvimento front end.
-Durante meu estudo busquei informações sobre as estruturas de BANCOS DE DADOS, levantamento de requisitos, modelagem relacional e não relacional.
-Tenho o foco em analise e desenvolvimento de sistemas, é uma coisa que cada vez mais tenho paixão.
-## Se você se endentificou e quer bater um papo é so chamar:  
+<p>Hoje estudo liguagens de programação desde Delphi, Html, CSS, Js, C#, Python, assim como frameworks de prototipação como figma e desenvolvimento front end.
+Durante meu estudo busquei informações sobre as estruturas de BANCOS DE DADOS, levantamento de requisitos, modelagem relacional e não relacional.<br>
+Tenho o foco em analise e desenvolvimento de sistemas, é uma coisa que cada vez mais tenho paixão.</p>
+
+**Deu Match! Chama para um café ou chá se preferir.:**
+[Linkedin](https://www.linkedin.com/in/fábio-neres-43516294) 
 
 - 🌱 Desenvolvo projetos pequenos para práticar a programação.
 - 🧑‍🎓 Aprendizagem por demanda, conforme os desafios propostos aprendo uma nova tecnologia.
@@ -39,7 +41,7 @@ Tenho o foco em analise e desenvolvimento de sistemas, é uma coisa que cada vez
   <a href="https://instagram.com/neres_stm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Neres#7688" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:neresfjcomunic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fábio-neres-43516294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   
   ![Snake animation](https://github.com/neresfabio/neresfabio/blob/output/github-contribution-grid-snake.svg)
 </div>
