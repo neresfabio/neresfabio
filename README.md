@@ -6,6 +6,8 @@
 
 Hoje estudo liguagens de programação desde Delphi, Html, CSS, Js, C#, Python, assim como frameworks de prototipação como figma e desenvolvimento front end.
 Durante meu estudo busquei informações sobre as estruturas de BANCOS DE DADOS, levantamento de requisitos, modelagem relacional e não relacional.
+Tenho o foco em analise e desenvolvimento de sistemas, é uma coisa que cada vez mais tenho paixão.
+## Se você se endentificou e quer bater um papo é so chamar:  
 
 - 🌱 Desenvolvo projetos pequenos para práticar a programação.
 - 🧑‍🎓 Aprendizagem por demanda, conforme os desafios propostos aprendo uma nova tecnologia.
