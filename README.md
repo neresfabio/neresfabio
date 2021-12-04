@@ -1,5 +1,5 @@
 # Olá!! Sou o Neres 👋
-## Sou Proficional de TI: Generalista | Developer Jr.
+## Sou Profissional de TI: Generalista | Developer Jr.
 **Segundo o *[SITE softwareone]( https://www.softwareone.com/pt-br/blog/artigos/2020/02/03/profissional-de-ti)*** 
 >O profissional generalista não é aquela pessoa que retém conhecimento acerca de tudo, até porque em TI isso seria impossível, devido à evolução digital. Mas é aquele profissional que busca diversificar seus campos de atuação, estando em contato com o maior número de tecnologias possível, sem se aprofundar demais em nenhuma delas.
 >Esse tipo de visão horizontal pode ser procurado pelas empresas para ser utilizado como um profissional “coringa”. Assim, qualquer que seja a necessidade do negócio, é grande a chance desse colaborador já possuir conhecimentos básicos sobre o tema.
