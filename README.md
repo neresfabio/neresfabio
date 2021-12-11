@@ -8,7 +8,7 @@
 Durante meu estudo busquei informações sobre as estruturas de BANCOS DE DADOS, levantamento de requisitos, modelagem relacional e não relacional.<br>
 Tenho o foco em analise e desenvolvimento de sistemas, é uma coisa que cada vez mais tenho paixão.</p>
 
-**Deu Match! Chama para um café ou chá se preferir.:**
+**Deu Match? Chama para um café ou chá se preferir.:**
 [Linkedin](https://www.linkedin.com/in/fábio-neres-43516294) 
 
 - 🌱 Desenvolvo projetos pequenos para práticar a programação.
