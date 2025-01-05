@@ -1,10 +1,29 @@
-# Olá!! Sou o Neres 👋
-## Sou Profissional de TI: Generalista | Developer Fullstack Jr.
-**Segundo o *[SITE softwareone]( https://www.softwareone.com/pt-br/blog/artigos/2020/02/03/profissional-de-ti)*** 
->O profissional generalista não é aquela pessoa que retém conhecimento acerca de tudo, até porque em TI isso seria impossível, devido à evolução digital. Mas é aquele profissional que busca diversificar seus campos de atuação, estando em contato com o maior número de tecnologias possível, sem se aprofundar demais em nenhuma delas.
->Esse tipo de visão horizontal pode ser procurado pelas empresas para ser utilizado como um profissional “coringa”. Assim, qualquer que seja a necessidade do negócio, é grande a chance desse colaborador já possuir conhecimentos básicos sobre o tema.
+# 🎉 Bem-vindo!  
 
-<p>Atualmente estou em uma especialização em <b>Cybersecurity</b>, sendo um generalista capaz de desempenhar a função de técnico em desenvolvimento Low-Code. Minha experiência envolve o desenvolvimento de RESTful APIs e testes exploratórios. Sou proficiente em Java, Spring Boot, Angular, HTML, CSS, JavaScript, Bootstrap e MySQL. Além disso, tenho habilidades em prototipagem com Figma e posso oferecer assistência técnica na criação de interfaces. Minhas habilidades abrangem tanto o mundo da cibersegurança como o desenvolvimento de aplicações, incluindo modelagem de dados e análise de negócios.</p>
+## Iniciei 2025 com foco em novos projetos e a integração das minhas principais experiências: **robótica educacional**, **mentoria para desenvolvedores** e **soluções com Inteligência Artificial**. Meu objetivo é unir tecnologia e educação para transformar ideias em soluções práticas.  
+
+#### 👨‍💻 Sobre mim:  
+- **Educação em Tecnologia:** Ministro aulas de robótica para jovens de 10 a 16 anos, introduzindo conceitos de programação e construção de robôs.  
+- **Mentoria e Desenvolvimento:** Apoio desenvolvedores em transição de carreira, oferecendo orientação prática em projetos ágeis e modernas práticas de desenvolvimento.  
+- **Análise e Soluções com AI:** Atuo como Analista de Suporte Jr em uma empresa que desenvolve soluções baseadas em Inteligência Artificial, contribuindo para o aprimoramento e inovação tecnológica.  
+
+#### 🚀 Minha visão sobre tecnologia:  
+Tecnologia é a ferramenta que uso para resolver problemas e, claro, **pagar as contas no final do mês**. Meu foco é oferecer soluções práticas para desafios reais, porque é isso que as empresas buscam: resultados. Para quem está começando, a prioridade deve ser aprender a resolver problemas, enquanto o aprofundamento técnico vem com a experiência e o tempo.  
+
+#### Áreas de Atuação:  
+- **Educação e Impacto Social:** Projetos voltados para o aprendizado em tecnologia e robótica.  
+- **Desenvolvimento FullStack:** Criação de APIs, sistemas web e integrações inteligentes.  
+- **Colaboração e Mentoria:** Contribuição para iniciativas open source e suporte para desenvolvedores iniciantes.  
+
+#### 🔨 Tecnologias:  
+- **Backend:** Django REST Framework, Spring Boot  
+- **Frontend:** React, JavaScript, Tailwind CSS  
+- **Ferramentas:** Docker, Git, CI/CD  
+
+#### 🌟 Propósito:  
+Apoiar o desenvolvimento de soluções tecnológicas que gerem impacto positivo, integrando inovação, educação e colaboração.  
+
+---
 
 **Deu Match? Chama para um café ou chá se preferir.:**
 [Linkedin](https://www.linkedin.com/in/fábio-neres-43516294) 
@@ -23,13 +42,15 @@
   <img align="center" alt="Neres-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Neres-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Neres-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Neres-BootsTrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Neres-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Neres-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Neres-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Neres-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Neres-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Neres-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Neres-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Neres-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Neres-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Neres-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Neres-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Neres-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
   ##
