@@ -26,7 +26,8 @@ Apoiar o desenvolvimento de soluções tecnológicas que gerem impacto positivo,
 ---
 
 **Deu Match? Chama para um café ou chá se preferir.:**
-[Linkedin](https://www.linkedin.com/in/fábio-neres-43516294) 
+
+[Linkedin](https://www.linkedin.com/in/fabioneresdejesus/) 
 
 - 🌱 Desenvolvo projetos pequenos para práticar a programação.
 - 🧑‍🎓 Aprendizagem por demanda, conforme os desafios propostos aprendo uma nova tecnologia.
