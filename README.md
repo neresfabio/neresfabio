@@ -18,7 +18,7 @@ Tecnologia é ferramenta para resolver problemas — e, claro, pagar as contas. 
 
 ---
 
-## Projeto em destaque: Stemverse
+## Projeto em destaque: [Stemverse](https://github.com/neresfabio/steam.web)
 Estou desenvolvendo o Stemverse do zero para praticar boas práticas e fluxo real de desenvolvimento. No projeto eu foco em:
 - Uso de Git e fluxo de branches (feature / main / release)  
 - Banco de dados: PostgreSQL (migrations e seeds)  
