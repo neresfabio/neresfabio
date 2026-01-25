@@ -64,8 +64,3 @@ Apoiar o desenvolvimento de soluções tecnológicas que gerem impacto, integran
 </div>
   
 ##
-  
-<div>
- <a href="https://discord.gg/Neres#7688" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:neresfjcomunic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
