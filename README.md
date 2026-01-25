@@ -1,37 +1,49 @@
-# 🎉 Bem-vindo!  
+# 🎉 Bem-vindo!
 
-## Iniciei 2025 com foco em novos projetos e a integração das minhas principais experiências: **robótica educacional**, **mentoria para desenvolvedores** e **soluções com Inteligência Artificial**. Meu objetivo é unir tecnologia e educação para transformar ideias em soluções práticas.  
+## Olá — sou o Fabio (Neres)
+Iniciei 2026 com foco em novos projetos e na integração das minhas experiências: **analise de sistemas**, **mentoria para quem precisa** e **soluções com Inteligência Artificial**.
 
-#### 👨‍💻 Sobre mim:  
-- **Educação em Tecnologia:** Ministro aulas de robótica para jovens de 10 a 16 anos, introduzindo conceitos de programação e construção de robôs.  
-- **Mentoria e Desenvolvimento:** Apoio desenvolvedores em transição de carreira, oferecendo orientação prática em projetos ágeis e modernas práticas de desenvolvimento.  
-- **Análise e Soluções com AI:** Atuo como Analista de Suporte Jr em uma empresa que desenvolve soluções baseadas em Inteligência Artificial, contribuindo para o aprimoramento e inovação tecnológica.  
+#### 👨‍💻 Sobre mim:
+- **Mentoria e Desenvolvimento:** Acompanho profissionais em transição de carreira e estudantes que estão iniciando na tecnologia, guiando o aprendizado na prática por meio de projetos reais e cultura ágil. 
+- **Análise e Soluções com AI:** Atuo como Analista de Suporte em projetos que usam IA Generativa, contribuindo para aprimoramento e inovação.
+- **Educação em Tecnologia:** Nos tempos vagos, ministro aulas de robótica para jovens de 10 a 16 anos, introduzindo programação e construção de robôs.  
 
-#### 🚀 Minha visão sobre tecnologia:  
-Tecnologia é a ferramenta que uso para resolver problemas e, claro, **pagar as contas no final do mês**. Meu foco é oferecer soluções práticas para desafios reais, porque é isso que as empresas buscam: resultados. Para quem está começando, a prioridade deve ser aprender a resolver problemas, enquanto o aprofundamento técnico vem com a experiência e o tempo.  
+#### 🚀 Minha visão sobre tecnologia:
+Tecnologia é ferramenta para resolver problemas — e, claro, pagar as contas. Meu foco é entregar soluções práticas e com impacto real.
 
-#### Áreas de Atuação:  
-- **Educação e Impacto Social:** Projetos voltados para o aprendizado em tecnologia e robótica.  
-- **Desenvolvimento FullStack:** Criação de APIs, sistemas web e integrações inteligentes.  
-- **Colaboração e Mentoria:** Contribuição para iniciativas open source e suporte para desenvolvedores iniciantes.  
-
-#### 🔨 Tecnologias:  
-- **Backend:** Django REST Framework, Spring Boot  
-- **Frontend:** React, JavaScript, Tailwind CSS  
-- **Ferramentas:** Docker, Git, CI/CD  
-
-#### 🌟 Propósito:  
-Apoiar o desenvolvimento de soluções tecnológicas que gerem impacto positivo, integrando inovação, educação e colaboração.  
+#### Áreas de Atuação:
+- **Colaboração e Mentoria:** Contribuição para open source e suporte a iniciantes.
+- **Desenvolvimento FullStack:** APIs, sistemas web e integrações inteligentes.  
+- **Educação e Impacto Social:** Projetos para aprendizado em tecnologia e robótica.  
 
 ---
 
-**Deu Match? Chama para um café ou chá se preferir.:**
+## Projeto em destaque: Stemverse
+Estou desenvolvendo o Stemverse do zero para praticar boas práticas e fluxo real de desenvolvimento. No projeto eu foco em:
+- Uso de Git e fluxo de branches (feature / main / release)  
+- Banco de dados: PostgreSQL (migrations e seeds)  
+- Testes: testes de integração cobrindo os fluxos principais  
+- Arquitetura: padrão MVC e separação de responsabilidades  
+- Integração e deploy: CI para rodar testes e deploy automatizado  
+- Regras de negócio implementadas no backend
 
-[Linkedin](https://www.linkedin.com/in/fabioneresdejesus/) 
+#### 🔨 Tecnologias (exemplos):
+- Backend: Next.js, utilizando Node.js como runtime.
+- Frontend: React e JavaScript
+- Ferramentas: Docker, Git, CI/CD
 
-- 🌱 Desenvolvo projetos pequenos para práticar a programação.
-- 🧑‍🎓 Aprendizagem por demanda, conforme os desafios propostos aprendo uma nova tecnologia.
-- 🕵️ Pesquisador em tempo integral, saber resolver problemas exige ter um olhar aguçado e investgativo.
+#### 🌟 Propósito:
+Apoiar o desenvolvimento de soluções tecnológicas que gerem impacto, integrando inovação, educação e colaboração.
+
+---
+
+**Deu match?** Chama para um café ou chá virtual:
+- [LinkedIn](https://www.linkedin.com/in/fabioneresdejesus/)
+
+- 🌱 Desenvolvo projetos pequenos e escalaveis para praticar programação.
+- 👨🏾‍🏭 Manutenção de sites.
+- 🧑‍🎓 Aprendo por demanda — novos desafios trazem novas tecnologias.  
+- 🕵️ Pesquisador em tempo integral — gosto de olhar os problemas com atenção.
 
 <div>
   <a href="https://github.com/neresfabio">
@@ -54,7 +66,7 @@ Apoiar o desenvolvimento de soluções tecnológicas que gerem impacto positivo,
   <img align="center" alt="Neres-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
-  ##
+##
   
 <div>
  <a href="https://discord.gg/Neres#7688" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
