@@ -1,66 +1,49 @@
-# 🎉 Bem-vindo!
+![AI Native Developer](https://img.shields.io/badge/AI_Native_Developer-1D9E75?style=flat&logoColor=white)
+![Sistemas & Produto](https://img.shields.io/badge/Sistemas_%26_Produto-gray?style=flat)
+![Builder em progresso](https://img.shields.io/badge/Builder_em_progresso-gray?style=flat)
 
-## Olá — sou o Fabio (Neres)
-Iniciei 2026 com foco em novos projetos e na integração das minhas experiências: **analise de sistemas**, **mentoria para quem precisa** e **soluções com Inteligência Artificial**.
+# Analista que usa IA como alavanca real de negócio.
 
-#### 👨‍💻 Sobre mim:
-- **Mentoria e Desenvolvimento:** Acompanho profissionais em transição de carreira e estudantes que estão iniciando na tecnologia, guiando o aprendizado na prática por meio de projetos reais e cultura ágil. 
-- **Análise e Soluções com AI:** Atuo como Analista de Suporte em projetos que usam IA Generativa, contribuindo para aprimoramento e inovação.
-- **Educação em Tecnologia:** Nos tempos vagos, ministro aulas de robótica para jovens de 10 a 16 anos, introduzindo programação e construção de robôs.  
-
-#### 🚀 Minha visão sobre tecnologia:
-Tecnologia é ferramenta para resolver problemas — e, claro, pagar as contas. Meu foco é entregar soluções práticas e com impacto real.
-
-#### Áreas de Atuação:
-- **Colaboração e Mentoria:** Contribuição para open source e suporte a iniciantes.
-- **Desenvolvimento FullStack:** APIs, sistemas web e integrações inteligentes.  
-- **Educação e Impacto Social:** Projetos para aprendizado em tecnologia e robótica.  
+> Não estou aqui pra falar de IA — estou aqui pra usá-la.
+> Lido com cliente, entendo o problema, construo a solução.
 
 ---
 
-## Projeto em destaque: [Stemverse](https://github.com/neresfabio/steam.web)
-Estou desenvolvendo o Stemverse do zero para praticar boas práticas e fluxo real de desenvolvimento. No projeto eu foco em:
-- Uso de Git e fluxo de branches (feature / main / release)  
-- Banco de dados: PostgreSQL (migrations e seeds)  
-- Testes: testes de integração cobrindo os fluxos principais  
-- Arquitetura: padrão MVC e separação de responsabilidades  
-- Integração e deploy: CI para rodar testes e deploy automatizado  
-- Regras de negócio implementadas no backend
+## O que estou fazendo agora
 
-#### 🔨 Tecnologias (exemplos):
-- Backend: Next.js, utilizando Node.js como runtime.
-- Frontend: React e JavaScript
-- Ferramentas: Docker, Git, CI/CD
-
-#### 🌟 Propósito:
-Apoiar o desenvolvimento de soluções tecnológicas que gerem impacto, integrando inovação, educação e colaboração.
+- 🏢 **Analista de Sistemas** em empresa que usa IA como aceleradora de negócios
+- 🤝 Trabalho direto com o cliente — da dor ao produto
+- 🚀 **2 POCs em produção**, validando organicamente enquanto itero
+- 📐 Estudando o modelo de **1-person tech company** com seriedade
 
 ---
 
-**Deu match?** Chama para um café ou chá virtual:
+## Como penso sobre desenvolvimento
+
+| ⚡ Vibe Coding com propósito | 🧠 IA como copiloto | 📦 Build once, sell many |
+|---|---|---|
+| Prototipo rápido, valido cedo, refino com dados reais | Orquestro soluções — não delego a responsabilidade | Produtos que escalam além das horas trabalhadas |
+
+---
+
+## Stack atual
+
+`Next.js` `Supabase` `Vercel` `Claude API` `OpenAI` `LangFlow` `Cursor IDE` `Python` `Prompt Engineer`
+
+---
+
+> IA não substituiu meu trabalho — multiplicou o que consigo entregar.
+> Ainda estou crescendo. E é exatamente aí que os melhores produtos nascem.
+
+---
+
 - [LinkedIn](https://www.linkedin.com/in/fabioneresdejesus/)
-
-- 🌱 Desenvolvo projetos pequenos e escalaveis para praticar programação.
-- 👨🏾‍🏭 Manutenção de sites.
-- 🧑‍🎓 Aprendo por demanda — novos desafios trazem novas tecnologias.  
-- 🕵️ Pesquisador em tempo integral — gosto de olhar os problemas com atenção.
 
 <div>
   <a href="https://github.com/neresfabio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neresfabio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neresfabio&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Neres-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Neres-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Neres-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Neres-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Neres-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Neres-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Neres-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Neres-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Neres-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+
   
 ##
