@@ -13,7 +13,7 @@ assistido por IA e atenção ao contexto amazônico.
 
 ## Projetos em destaque
 
-<a href="ttps://www.mocorongotech.com.br">
+<a href="https://www.mocorongotech.com.br/">
   <img
     src="./assets/portfolio/mocorongotech-v2.png"
     alt="Site institucional da Mocorongo Tech"
@@ -41,7 +41,7 @@ para Santarém e o Baixo Amazonas.
 
 <br />
 
-<a href="https://neresfabio.github.io/sorteador-mocorongo/">
+<a href="https://www.mocorongotech.com.br/recursos/sorteador">
   <img
     src="./assets/portfolio/sorteador-mocorongo-v1.png"
     alt="Tela de configuração do Sorteador Mocorongo"
