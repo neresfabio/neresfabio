@@ -13,7 +13,7 @@ assistido por IA e atenção ao contexto amazônico.
 
 ## Projetos em destaque
 
-<a href="https://github.com/neresfabio/mocorongotech-site">
+<a href="ttps://www.mocorongotech.com.br">
   <img
     src="./assets/portfolio/mocorongotech-v2.png"
     alt="Site institucional da Mocorongo Tech"
@@ -21,13 +21,13 @@ assistido por IA e atenção ao contexto amazônico.
   />
 </a>
 
-**[Mocorongo Tech](https://github.com/neresfabio/mocorongotech-site)**<br />
+**[Mocorongo Tech](https://www.mocorongotech.com.br/)**<br />
 Operação independente, presença institucional, ofertas digitais e recursos
 públicos desenvolvidos com Next.js e React.
 
 <br />
 
-<a href="https://github.com/neresfabio/stemverse-app">
+<a href="https://www.stemverse.com.br/">
   <img
     src="./assets/portfolio/stemverse-v1.png"
     alt="Página de apresentação do StemVerse"
@@ -35,7 +35,7 @@ públicos desenvolvidos com Next.js e React.
   />
 </a>
 
-**[StemVerse](https://github.com/neresfabio/stemverse-app)**<br />
+**[StemVerse](https://www.stemverse.com.br/)**<br />
 Hub regional open source de tecnologia, aprendizagem prática e oportunidades
 para Santarém e o Baixo Amazonas.
 
@@ -49,7 +49,7 @@ para Santarém e o Baixo Amazonas.
   />
 </a>
 
-**[Sorteador Mocorongo](https://github.com/neresfabio/sorteador-mocorongo)**<br />
+**[Sorteador Mocorongo](https://www.mocorongotech.com.br/recursos/sorteador)**<br />
 Recurso público e projeto educacional para sorteios conduzidos durante
 apresentações, aulas e eventos.
 
