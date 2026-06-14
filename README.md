@@ -53,6 +53,10 @@ para Santarém e o Baixo Amazonas.
 Recurso público e projeto educacional para sorteios conduzidos durante
 apresentações, aulas e eventos.
 
+**Quer criar o seu próprio sorteador?**<br />
+O código-fonte e o percurso de aprendizagem estão disponíveis no repositório
+[neresfabio/sorteador-mocorongo](https://github.com/neresfabio/sorteador-mocorongo).
+
 ## Como trabalho
 
 `problema real` → `escopo claro` → `protótipo` → `validação` → `evolução`
