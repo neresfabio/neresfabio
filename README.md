@@ -57,22 +57,6 @@ apresentações, aulas e eventos.
 O código-fonte e o percurso de aprendizagem estão disponíveis no repositório
 [neresfabio/sorteador-mocorongo](https://github.com/neresfabio/sorteador-mocorongo).
 
-## Registro de aprendizado — Landing Page Auditor
-
-O **Landing Page Auditor** é uma prova de conceito em Python, desenvolvida de forma
-iterativa com apoio de IA para analisar páginas web e gerar relatórios técnicos.
-
-Participei da definição da proposta, revisão do código, testes manuais em sites
-reais e refinamento das análises. Os relatórios também orientaram melhorias
-no site da Mocorongo Tech, com atenção à estrutura e à encontrabilidade.
-
-O projeto permanece em evolução. A ideia de oferecê-lo como agente não chegou
-a ser concluída, e sua aplicação comercial ainda não foi validada.
-
-**Aprendizados em foco:** análise de HTML e SEO, integração com Lighthouse,
-qualidade dos diagnósticos, rastreabilidade dos resultados e limites das
-heurísticas.
-
 ## Como trabalho
 
 `problema real` → `escopo claro` → `protótipo` → `validação` → `evolução`
