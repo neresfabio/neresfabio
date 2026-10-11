@@ -1,15 +1,13 @@
 # Fábio Neres
 
-**Analista de Sistemas construindo produtos digitais com IA, estratégia e
-engenharia de software.**
+**Profissional de tecnologia com atuação em sustentação de plataformas de IA generativa e interesse em engenharia de software.**
 
-Atuo da compreensão do problema à entrega: organizo o escopo, desenvolvo
-protótipos, valido soluções e documento as decisões para que cada projeto possa
-evoluir com clareza.
+Este perfil reúne projetos públicos de estudo e experimentação técnica. Uso esses
+exercícios para aprofundar conceitos de desenvolvimento, investigar problemas,
+revisar implementações e documentar o que aprendo.
 
-Hoje concentro esse trabalho na **Mocorongo Tech**, uma iniciativa independente
-para construir e validar produtos digitais com operação simples, desenvolvimento
-assistido por IA e atenção ao contexto amazônico.
+Vejo a IA como apoio ao trabalho técnico, com revisão humana, testes e atenção
+às limitações de cada solução.
 
 ## Projetos públicos de estudo
 
