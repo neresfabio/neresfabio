@@ -11,51 +11,18 @@ Hoje concentro esse trabalho na **Mocorongo Tech**, uma iniciativa independente
 para construir e validar produtos digitais com operação simples, desenvolvimento
 assistido por IA e atenção ao contexto amazônico.
 
-## Projetos em destaque
+## Projetos públicos de estudo
 
-<a href="https://www.mocorongotech.com.br/">
-  <img
-    src="./assets/portfolio/mocorongotech-v2.png"
-    alt="Site institucional da Mocorongo Tech"
-    width="100%"
-  />
-</a>
+Esta seção reúne repositórios públicos utilizados para praticar conceitos,
+experimentar implementações e registrar aprendizados. Os códigos e as
+limitações de cada exercício podem ser consultados diretamente no GitHub.
 
-**[Mocorongo Tech](https://www.mocorongotech.com.br/)**<br />
-Operação independente, presença institucional, ofertas digitais e recursos
-públicos desenvolvidos com Next.js e React.
-
-<br />
-
-<a href="https://www.stemverse.com.br/">
-  <img
-    src="./assets/portfolio/stemverse-v1.png"
-    alt="Página de apresentação do StemVerse"
-    width="100%"
-  />
-</a>
-
-**[StemVerse](https://www.stemverse.com.br/)**<br />
-Hub regional open source de tecnologia, aprendizagem prática e oportunidades
-para Santarém e o Baixo Amazonas.
-
-<br />
-
-<a href="https://www.mocorongotech.com.br/recursos/sorteador">
-  <img
-    src="./assets/portfolio/sorteador-mocorongo-v1.png"
-    alt="Tela de configuração do Sorteador Mocorongo"
-    width="100%"
-  />
-</a>
-
-**[Sorteador Mocorongo](https://www.mocorongotech.com.br/recursos/sorteador)**<br />
-Recurso público e projeto educacional para sorteios conduzidos durante
-apresentações, aulas e eventos.
-
-**Quer criar o seu próprio sorteador?**<br />
-O código-fonte e o percurso de aprendizagem estão disponíveis no repositório
-[neresfabio/sorteador-mocorongo](https://github.com/neresfabio/sorteador-mocorongo).
+- **[Todo List API](https://github.com/neresfabio/todo-list-API)** — exercício
+  de backend com Java e Spring Boot, explorando endpoints HTTP, organização
+  em camadas, DTOs e operações sobre tarefas mantidas em memória.
+- **[Sorteador Mocorongo](https://github.com/neresfabio/sorteador-mocorongo)** —
+  projeto público de aprendizagem com HTML, CSS e JavaScript, acompanhado de
+  roteiro de estudo e práticas de interação com o DOM.
 
 ## Como trabalho
 
