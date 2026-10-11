@@ -32,10 +32,15 @@ manter decisões registradas e evoluir sem adicionar complexidade antes da hora.
 
 ## Tecnologias e práticas
 
-`Next.js` `React` `TypeScript` `JavaScript` `HTML` `CSS` `Git` `GitHub`
+**Tecnologias demonstradas nos projetos públicos:**
+`Java` `Spring Boot` `Maven` `JavaScript` `HTML` `CSS`
 
-`desenvolvimento assistido por IA` `documentação viva` `prototipação`
-`produto digital`
+**Conceitos em estudo:**
+`APIs HTTP` `DTOs` `organização em camadas` `DOM`
+`validação de entradas` `testes` `documentação técnica`
+
+As tecnologias e os conceitos acima podem ser explorados nos repositórios
+públicos, sem representar uma classificação de proficiência.
 
 ## Contato
 
