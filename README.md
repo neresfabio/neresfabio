@@ -22,13 +22,16 @@ limitações de cada exercício podem ser consultados diretamente no GitHub.
   projeto público de aprendizagem com HTML, CSS e JavaScript, acompanhado de
   roteiro de estudo e práticas de interação com o DOM.
 
-## Como trabalho
+## Como estudo e desenvolvo
 
-`problema real` → `escopo claro` → `protótipo` → `validação` → `evolução`
+`entender o problema` → `explorar alternativas` → `implementar` → `testar` → `revisar` → `documentar`
 
-Uso IA como parte do processo de engenharia, não como substituta da
-responsabilidade técnica. O foco está em transformar contexto em software útil,
-manter decisões registradas e evoluir sem adicionar complexidade antes da hora.
+Utilizo projetos práticos para investigar conceitos de software e compreender
+o comportamento das soluções. Durante o desenvolvimento, reviso implementações,
+executo testes compatíveis com o exercício e registro limitações e aprendizados.
+
+Quando utilizo IA, trato suas sugestões como material para análise e validação,
+não como substituto do entendimento técnico ou da responsabilidade pelas decisões.
 
 ## Tecnologias e práticas
 
