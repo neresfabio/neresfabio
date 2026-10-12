@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="137" viewBox="0 0 960 137" role="img" aria-labelledby="title desc">
+  <title id="title">Operação e Entrega</title><desc id="desc">1 prática: Integração contínua. Abra para ver descrições e evidências.</desc>
+  <defs><linearGradient id="gradient-delivery-light" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#238636"/><stop offset=".72" stop-color="#3fb950"/><stop offset="1" stop-color="#7ee787"/></linearGradient></defs>
+  <text x="3" y="25" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" font-weight="600">Operação e Entrega</text>
+  <rect x="875" y="5" width="81" height="25" rx="13" fill="#f0fff4" stroke="#abf2bc"/>
+  <text x="915.5" y="22" text-anchor="middle" fill="#1a7f37" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12">1 prática</text>
+  <rect x="3" y="42" width="162" height="12" rx="6" fill="url(#gradient-delivery-light)"/>
+  <text x="3" y="76" fill="#656d76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12">Integração contínua</text>
+  <text x="3" y="108" fill="#656d76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12">Ver descrições e evidências</text>
+  <text x="950" y="109" text-anchor="end" fill="#656d76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16">⌄</text>
+  <line x1="0" y1="136" x2="960" y2="136" stroke="#d0d7de" stroke-width="1"/>
+ </svg>
